@@ -1,3 +1,4 @@
 .env
+.venv/
 nexar-collision-prediction.zip
 data/
