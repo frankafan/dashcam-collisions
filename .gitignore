@@ -3,3 +3,6 @@
 nexar-collision-prediction.zip
 data/
 unsloth_compiled_cache/
+outputs/
+!outputs/**/*.png
+!outputs/**/*.csv
