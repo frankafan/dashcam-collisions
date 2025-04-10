@@ -13,3 +13,5 @@ unsloth_finetuning.py
 !outputs/**/*.png
 !outputs/**/*.jpg
 !outputs/**/*.csv
+outputs/**/adapter_model.safetensors
+outputs/**/tokenizer.json
